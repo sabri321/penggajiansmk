@@ -12,6 +12,7 @@ Fungsi dari aplikasi ini adalah untuk mempermudah dalam peroses administrasi dan
 gaji atau upah suatu guru dan sebagai alat pengatur tata cara perubahan gaji untuk guru.
 
 untuk demo aplikasi bisa klik link di bawah ini :
+
 link demo https://youtu.be/ywqC5yigOKU
 
 
